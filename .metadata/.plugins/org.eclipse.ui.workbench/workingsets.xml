@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582343561138_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=jsp01/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=jspTest/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582343561151_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582343567142_2" label="Window Working Set" name="Aggregate for window 1582343567141"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582360982241_3" label="Window Working Set" name="Aggregate for window 1582360982241"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582698445280_4" label="Window Working Set" name="Aggregate for window 1582698445280"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582885922978_5" label="Window Working Set" name="Aggregate for window 1582885922978"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582886328303_6" label="Window Working Set" name="Aggregate for window 1582886328303"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1582886715346_7" label="Window Working Set" name="Aggregate for window 1582886715346"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583116655836_8" label="Window Working Set" name="Aggregate for window 1583116655836"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1583376216068_9" label="Window Working Set" name="Aggregate for window 1583376216068"/>
+</workingSetManager>

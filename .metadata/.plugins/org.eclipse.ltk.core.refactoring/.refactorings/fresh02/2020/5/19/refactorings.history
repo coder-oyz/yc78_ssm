@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;fresh02/WebContent/WEB-INF/lib/log4j-1.2.17 (1).jar&apos; to &apos;log4j-1.2.17.jar&apos;" description="Rename resource &apos;log4j-1.2.17 (1).jar&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/lib/log4j-1.2.17 (1).jar" name="log4j-1.2.17.jar" stamp="1588757376172" updateReferences="true"/>
+</session>

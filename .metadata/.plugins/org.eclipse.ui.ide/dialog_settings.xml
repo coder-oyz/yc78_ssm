@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\DELL\Desktop\迅雷"/>
+		<item value="D:\workspaceJ2EE\迅雷"/>
+		<item value="C:\Users\DELL\Desktop\迅雷1"/>
+		<item value="D:\workspaceJ2EE\blog"/>
+		<item value="C:\Users\DELL\Desktop\blog"/>
+		<item value="C:\Users\DELL\Desktop\ChattingOnline\ChattingOnline\ChattingOnline"/>
+		<item value="C:\Users\DELL\Desktop\3小时教你如何使用websocket实现一个聊天室\code\07-wechat"/>
+		<item value="C:\Users\DELL\Desktop\WebSocket"/>
+		<item value="C:\Users\DELL\Desktop\WebSocket\WebSocket"/>
+		<item value="E:\BaiduNetdiskDownload\springboot+websocket实现聊天系统服务端\source-源代码\chatroom"/>
+		<item value="C:\Users\DELL\Desktop\ChattingOnline"/>
+		<item value="E:\java\寒假\二期\blog"/>
+		<item value="E:\java\寒假\01 项目源码\QQ8.0"/>
+		<item value="E:\java\寒假\redis\课件+源码+工具\课程源码\redis1122"/>
+		<item value="C:\Users\DELL\Desktop\fresh"/>
+		<item value="G:\培训\jvm\jvm"/>
+		<item value="C:\Users\DELL\Desktop\给学生的资料\resVue_学生用"/>
+		<item value="C:\Users\DELL\Desktop\给学生的资料(1)\给学生的资料"/>
+		<item value="C:\Users\DELL\Desktop\给学生的资料(1)\给学生的资料\resVue_学生用"/>
+		<item value="C:\Users\DELL\Desktop\给学生的资料\给学生的资料\resVue_学生用"/>
+	</list>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="663"/>
+		<item key="DIALOG_Y_ORIGIN" value="94"/>
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_HEIGHT" value="645"/>
+		<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\workspaceJ2EE\迅雷"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="586"/>
+		<item key="DIALOG_Y_ORIGIN" value="274"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.emf.codegen.ecore.ui.wizardCategory"/>
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.wst.jsdt.ui.java"/>
+			<item value="org.eclipse.wb"/>
+			<item value="org.eclipse.wb/org.eclipse.wb.rcp"/>
+		</list>
+	</section>
+</section>

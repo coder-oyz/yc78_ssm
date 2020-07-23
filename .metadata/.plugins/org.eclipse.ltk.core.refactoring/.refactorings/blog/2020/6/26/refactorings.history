@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;迅雷/src/com.yc.commons&apos;&#x0D;&#x0A;- Original project: &apos;blog&apos;&#x0D;&#x0A;- Destination element: &apos;迅雷/src/com.yc.commons&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.yc.commons.DbHelper.java&#x0D;&#x0A;     com.yc.commons.MyProperties.java" description="Copy compilation units" destination="=迅雷/src&lt;com.yc.commons" element1="/src&lt;com.yc.commons{DbHelper.java" element2="/src&lt;com.yc.commons{MyProperties.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1593300934351" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,43 @@
+1587277998216	Rename type 'GoodType'
+1587278245365	Rename type 'GoodTypeBiz'
+1587285052170	Delete element
+1587286912687	Rename resource 'ajaxfileupload (1).js'
+1587287576878	Move 'ajaxfileupload .js' to 'js'
+1587288555411	Rename resource 'ajaxfileupload .js'
+1587353671483	Delete element
+1587353674344	Delete element
+1587353689923	Rename resource 'jquery.min (1).js'
+1587544401365	Rename type 'GoodsInfo'
+1587544483196	Rename type 'menberinfo'
+1587544516989	Rename type 'orderinfo'
+1587544540010	Rename type 'orderiteminfo'
+1587544551509	Rename type 'cartinfo'
+1587544561907	Rename type 'admininfo'
+1587544574644	Rename type 'addrinfo'
+1587544726670	Rename type 'AdminDao'
+1587544743162	Rename type 'GoodsInfoDAO'
+1587546635758	Rename type 'addrinfo'
+1587546656207	Rename type 'admininfo'
+1587546679551	Rename type 'cartinfo'
+1587546693993	Rename type 'GoodsInfo'
+1587546714871	Rename type 'menberinfo'
+1587546726763	Rename type 'orderinfo'
+1587546737555	Rename type 'orderiteminfo'
+1587546778247	Delete element
+1587546794642	Rename type 'GoodsInfoBiz'
+1587546853281	Rename type 'GoodsInfoDAO'
+1587546908655	Delete element
+1587776737669	Delete element
+1587779926749	Delete element
+1587779965034	Rename type 'MenberInfo'
+1587786416872	Delete element
+1587794286224	Delete element
+1587794295307	Rename resource 'commons-fileupload-1.4 (1).jar'
+1587794623636	Copy files
+1587794639075	Copy files
+1587794869235	Copy files
+1587794920169	Copy files
+1587801827633	Delete element
+1587801898830	Delete element
+1587801925196	Delete element
+1587802026746	Delete element

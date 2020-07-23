@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;js&apos;&#x0D;&#x0A;- Original project: &apos;resVue&apos;&#x0D;&#x0A;- Destination element: &apos;js&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     vue.js&#x0D;&#x0A;     axios.js" description="Copy files" element1="WebContent/js/vue.js" element2="WebContent/js/axios.js" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1587777750386" target="/fresh/WebContent/js" units="0" version="1.0"/>
+</session>
